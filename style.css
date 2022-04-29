@@ -1,0 +1,27 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.heading {
+    background-color: #ddb6b3;
+    padding: 10px;
+    font-size: 35px;
+    color: black;
+    text-shadow: 3px 3px #f8e4df;
+    margin-top: 0;
+}
+.note {
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    text-shadow: none;
+}
+#song_name {
+    background-color: #f2d6c7;
+    font-size: 25px;
+    font-weight: bold;
+}
+canvas {
+    background-color: #e0ab98;
+    border: 5px solid white;
+    border-radius: 20px;
+}
